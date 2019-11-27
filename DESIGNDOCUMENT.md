@@ -7,5 +7,15 @@ This document is the guiding document to the rest, and changes here will change 
 
 We are Tolkien, Not reliable Storytellers. Leave that to the DM's and players, we are here to give them something to work with.
 
-# General Aesthetic
+# General Aesthetic:
 The Caverns of the Vaal is a High Fantasy setting set in a huge underground network of caves. It is inhabited by many familiar races from the D&D mythology, as well as a variety of races that are not from the mythology.
+
+The overall feel of the world is one of mystery, as the various races have been very superstitious as to why the entire world is underground, and why the giant holes (Galadin) that allow the light into the caverns don't exist in every cavern, and why no-one who returns from attempting to venture into them, comes back sane or whole. Depending on how high they ascended into the Galadin, they return more and more sick, and even descending them back into the Vaal will cause partial symptoms.
+
+## Definitions:
+
+Galadin - The gigantic skies, or holes in the top of lighted Vaal, they can be a variety of sizes from holes a hundred feet across to hundreds of thousands. They allow light into the lighted Vaal, and is notably where most of the population of Siraga.
+
+Siraga - The planet on which the Vaal reside, it is inhabited as far as we know only in the Vaal beneath it's surface. It's surface while being defined as existing is a mystery and is left such intentionally.
+
+Vaal - The Large Caverns that exist on

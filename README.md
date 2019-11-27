@@ -3,6 +3,8 @@ A DND 5th Edition OGL Campaign Setting, with open sourced development from the c
 
 # World Overview:
 
+*Picture here eventually*
+
 WIP
 
 # Git Overview:
@@ -32,3 +34,18 @@ For a general idea of what the setting is supposed to feel like, please referenc
 Due to the nature of this Repo not being actual code, the only real method to "compile" it would be to render it in the form with which was intended: D&D style pages as if this came out of the actual player and Dungeon Master Manuals. The method used will be via "The Homebrewery" located here: https://homebrewery.naturalcrit.com/.
 
 The goal here is to make all pages fit as though they were natural in a D&D 5th edition style printing and all contributions will be expected to use this method. E.G. separating large paragraphs into small concise information and creating \Page demarcations at the end of every page. These can be checked on https://homebrewery.naturalcrit.com/ at any time to see what they look like.
+
+## License
+
+[Also as it's own Document](LICENSE.md)
+
+Open	Game	License	v	1.0a	Copyright	2000,	Wizards
+of	the	Coast,	LLC.
+
+System	Reference	Document	5.1 Copyright	2016,
+Wizards	of	the	Coast,	Inc.;	Authors	Mike	Mearls,
+Jeremy	Crawford,	Chris	Perkins,	Rodney	Thompson,
+Peter	Lee,	James	Wyatt,	Robert	J.	Schwalb,	Bruce	R.
+Cordell,	Chris	Sims,	and	Steve	Townshend,	based	on
+original	material	by	E.	Gary	Gygax	and	Dave	Arneson.
+END	OF	LICENSE
