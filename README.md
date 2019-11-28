@@ -20,7 +20,13 @@ The Original spells, creatures, and races of the "Forgotten Realms" will be used
 It should be additionally noted that when possible, open-endedness as well as room to conjecture and modify should be preferred over closed stories. To allow GM's and players room to fill in their own campaigns and designs in the Caverns of the Vaal.
 
 For a general idea of what the setting is supposed to feel like, please reference the Design Document:
-[Design Document for the Caverns of the Vaal](DESIGNDOCUMENT.md)
+[Design Document for the Caverns of the Vaal](DESIGNDOCUMENT.txt)
+
+## Editions:
+
+Editions will be released from time to time, and will include another age in the history of the Vaal, from times when great empires exist, to times when most races are on the decline due to a catastrophic event, or otherwise. I am currently planning 5 editions, one for every 500 years of Vaal Prime history, there will be history outside of this, going back farther, but it will be incomplete, and not the subject of an edition release. Editions may contain new races, spells, or monsters exclusive or at least more common to that age, but will be compatible with the world at large.
+
+Editions will experience point releases to fix glaring or lesser errors or continuity issues, and these will continue while work on New Editions is done.
 
 
 ## Contributions:
