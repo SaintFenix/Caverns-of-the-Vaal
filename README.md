@@ -20,7 +20,7 @@ The Original spells, creatures, and races of the "Forgotten Realms" will be used
 It should be additionally noted that when possible, open-endedness as well as room to conjecture and modify should be preferred over closed stories. To allow GM's and players room to fill in their own campaigns and designs in the Caverns of the Vaal.
 
 For a general idea of what the setting is supposed to feel like, please reference the Design Document:
-[Design Document for the Caverns of the Vaal](DESIGNDOCUMENT.txt)
+[Design Document for the Caverns of the Vaal](DESIGNDOCUMENT.md)
 
 ## Editions:
 
