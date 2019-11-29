@@ -1,11 +1,28 @@
 ## Function
 The purpose of this document is like most creative projects to help maintain a general feeling of what a developed world looks like and feels like. It will provide general guidelines of what is and isn't allowed in the world development and should be read primarily by only those looking to help develop the setting, and not those who wish to have the setting spoiled for them. If you do not wish to have the setting spoiled, this is the time to turn back. [Back to the Introduction](README.md)
 
-This will be the only document in addition to the README, that will not be written in formatting for https://homebrewery.naturalcrit.com/, so /page breaks will not be mandatory, and additions will be heavily restricted to the Repository owners, and possibly additions via pull requests, though these will be heavily vetted.
+This will be the only document in addition to the README, that will not be written in formatting for [Homebrewery](https://homebrewery.naturalcrit.com/), so /page breaks will be mandatory, additions via pull requests will be heavily vetted for formatting that both looks good and fits [Homebrewery](https://homebrewery.naturalcrit.com/).
 
-This document is the guiding document to the rest, and changes here will change the flow and feel of the rest of the documents. Keeping them consistent with these guidelines is paramount, and as such pull requests that aid in this are muchly appreciated. Though like most pull requests these will be heavily vetted for inclusion in the history, and development of the World.
+This document is the guiding document that defines the general design philosophy of the rest of the World. Keeping them consistent with these guidelines is paramount, and as such pull requests that aid in this are very much appreciated. Though like most pull requests these will be heavily vetted for inclusion in the history, and development of the World.
 
-We are Tolkien, Not reliable Storytellers. Leave that to the DM's and players, we are here to give them something to work with.
+**Editor style pull requests that improve flow, grammar and spelling are very much appreciated.**
+
+* We are Tolkien building a world, Not reliable Storytellers who know everything about everything. Leave plenty of speculation and breathing room to the DM's and players, we are here to give them something to work with.
+
+## This is not Forgotten Realms:
+
+While many things will be borrowed from the OGL, which will tend to make parts of the Caverns of the Vaal feel like the Forgotten Realms, overall it is not the forgotten realms, and some things have been changed. They will be noted as they are changed here:
+
+- Various languages differ from Faerun:
+  - Most languages have a signed equivalent thanks to the need of being able to communicate quietly underground.
+    - The only exceptions to this are Primordial languages, such as Deep Speech, Celestial, Elemental and the like.
+    - Dwarvish also doesn't have a signed equivalent.
+  - Humans have both Common and Nomadic-Common as standard languages, as they have diverged so far from each other.
+  - Halfling is written with the Elvish script.
+  - Some languages do not have a script: such as Nomadic-Common, and the primordial languages.
+- There are no Orcs in this setting.
+- There are new races: Helfling, and Grevlin.
+
 
 # General Setting:
 The Caverns of the Vaal is a High Fantasy setting set in a huge underground network of caves. It is inhabited by many familiar races from the Forgotten Realms D&D mythology, as well as a variety of races that are not from the mythology.
@@ -17,17 +34,7 @@ According to popular knowledge no-one has ever made it to the top of a Galadin.
 There will be mysterious figures, or heroes who will have been to the top, but they will remain mysterious, or insane, and as such will never prove to be reliable narrators to the top. This will always be left a mystery.
 
 ## The Vaal:
-A Single Vaal can be large enough to have several races living in or, or just one depending on how the history of that Vaal developed, intrigue, god worship, and all the mundanities of life occur in the Vaal and some are quite peaceful or quite far away.
-
-### Lighted Vaal:
-Lightened Vaal are where most civilizations live, they are lit by the massive or sometimes not so massive Galadin. These large holes in the ceilings of the Vaal are where the warmth and light come from. The Galadin in these Vaal radiate a magic light that reaches far farther than normal light, and shadows under and around Galadin are blurry and faint, as the magic light works it's way through the Vaal. Many cities in lighted Vaal will be built directly underneath Galadin, or along cross roads between them.
-
-In General the orderly races of the world live in Lighted Vaal, with the exception of the numerous Dwarves who live all over Siraga.
-
-### Dark Vaal:
-The Dark Vaal are where the less ordered Civilizations generally live, they are not lit by a Galadin and are instead massive dark caves that stretch for great distances that are home to creatures adapted to this darkness. They can be giant empty and dry, or home to massive dark mysterious seas. Contrary to their name they can be lit by a variety of sources, though generally not particularly well due to their size. Magma, or lights from creatures or civilizations may light up these Vaal, but generally they exist as pathways to other lighted Vaals, or mysterious and dangerous places where the darkness of the world resides.
-
-Many dark and evil creatures can live in Dark Vaal, and many mysteries can be present in them. Unless charted, or otherwise explored, Most of the unexplored Vaal in the world tend to be Dark Vaal due to the hardship of traveling through them. Food may not be present, neither water, or reliable methods to light the path for those not blessed by darkvision.
+A Single Vaal can be large enough to have several races living in or, or just one depending on how the history of that Vaal developed, intrigue, god worship, and all the mundanities of life occur in the Vaal and some are quite peaceful or quite far away. Vaal tend to all be around the same level in the ground, though deeper Vaal do exist, and all of them are unlit.
 
 ### Cave or Vaal?
 
@@ -35,7 +42,17 @@ The Denizens of Siraga are divided on what constitutes a Vaal, most commonly it 
 
 Caves are much smaller and usually quite longer tending to be one way in, one way out affairs, that connect one or more Vaal. Caves can be quite large themselves some with room for wagons, and others with barely enough room to squeeze a single adventurer through. They can be completely dry with the usual stalactites and stalagmites that other caves do, or quite warm and wet with fungi or plants. If near enough to a large Galadin these can be lit naturally for miles, if not, they are completely black, though other plants or natural effects may light them.
 
-### Climate
+### Dark Vaal (unlit Vaal):
+The Dark Vaal are where the less ordered Civilizations generally live, they are not lit by a Galadin and are instead massive dark caves that stretch for great distances that are home to creatures adapted to this darkness. They can be giant empty and dry, or home to massive dark mysterious seas. Contrary to their name they can be lit by a variety of sources, though generally not particularly well due to their size. Magma, or lights from creatures or civilizations may light up these Vaal, but generally they exist as pathways to other lighted Vaals, or mysterious and dangerous places where the darkness of the world resides.
+
+Many dark and evil creatures can live in Dark Vaal, and many mysteries can be present in them. Unless charted, or otherwise explored, Most of the unexplored Vaal in the world tend to be Dark Vaal due to the hardship of traveling through them. Food may not be present, neither water, or reliable methods to light the path for those not blessed by darkvision.
+
+### Lighted Vaal:
+Lightened Vaal are where most civilizations live, they are lit by the massive or sometimes not so massive Galadin. These large holes in the ceilings of the Vaal are where the warmth and light come from. The Galadin in these Vaal radiate a magic light that reaches far farther than normal light, and shadows under and around Galadin are blurry and faint, as the magic light works it's way through the Vaal. Many cities in lighted Vaal will be built directly underneath Galadin, or along cross roads between them.
+
+In General the orderly races of the world live in Lighted Vaal, with the exception of the numerous Dwarves who live all over Siraga.
+
+### Vaal Climate
 Vaal Climates vary highly, from some Vaal being vast forests lit by Galadin, to Dark Vaal which have no light but are home to huge white jungles full of predators and prey. They can be cold and snowy, and can be quite windy. Some are home to large kingdoms and civilizations, others are home to small remnants of once great empires, or are completely deserted. Many different kinds of Vaal exist, and some are quite isolated from the other Vaal, providing huge places of great reward and danger for the Adventurer, and many things to discover hidden in the Rock Walls.
 
 The key to the climate of any Vaal is it's water supply and warmth. Vaal can have water that comes from rivers, falls from the Galadin in Great lit water falls, or constantly precipitates from the top of the cavern where it gathers on the cold stone. Depending on how much water is available and the temperature, will determine of the Vaal is a great overly lit desert, or a cold dark hell full of yeti's, Grevlin, snow, and death.
@@ -52,16 +69,38 @@ Some Vaal have collapsed in antiquity and some have Collapsed more recently, the
 
 When writing a new Vaal remember to consider what it's terrain looks like, and how wet and warm it is, and adjust accordingly. Be creative! Other than the gods there is no being that knows what every Vaal holds.
 
-### Geography:
+## Geography:
 **TBD as I'll have to create a rough map of the world, this is incoming. I'll probably pay an Artist for a much better version of what I produce in time.**
 
 ## Races of the Vaal:
 
-### The First Beings:
+### Aetherial First Beings:
 
 First there was the gods, and an indefinite time that they came into being and ruled, Then there was the casting down an event that created the Vaal, of which details are scarce, though most races have a mythology dating to that time sharing that detail. They once walked the land, and eventually left, though most are not sure. They are however revered and still worshipped by the races of Vaal.
 
 The Vaal were originally inhabited by Elves, and almost immediately thereafter Halflings, who were designed after the elves, then came the less perfect humans, and then lastly the Dwarves. Gnomes came around this time too, but no-one is sure on their origin.
+
+### Dwarves
+
+Dwarves live well on Siraga, their natural inclinations for stonecraft and carving kingdoms in the underground mean that they are alone in creating massive mining operations and creating large industry and are foremost in constructing new trade routes throughout Siraga. They are numerous and inhabit many separate kingdoms. Dwarves can be found in almost all Vaal climates and are generally lawful creatures.
+
+Dwarves tend towards order, and create large gates to their Vaal, and larger castles inside their Vaal. They tend towards exploration, and are generally the dominant force for exploring new Vaal, and caverns.
+
+Dwarves enjoy the highest development of any people, and create long tracks of rails to haul ore, and goods through the underground, powering these "trains" with various livestock. Their cities are built into all parts of a Vaal, and can even be built up the wall into the ceiling. They dominate with large stone spires, brass and copper domes, and a brutalistic aesthetic. Rails run between many buildings for transport, and are all powered via various tamed creatures, usually pets which double as a method of showing wealth.
+
+Dwarves are seldom nomadic, and when they are they tend to be small companies exploring the far Vaal, and searching for new Ore for Dwarves to mine.
+
+Dwarves are territorial and wars between the Dwarven Kingdoms is nearly always happening or on the Horizon. Dwarven warfare is large scale and quite advanced.
+
+#### Dwarvish Languages
+
+Dwarves speak Dwarvish and Undercommon, and sometimes Common. Religious dwarves can also speak Celestial, or Deep Speech.
+
+Dwarves write their languages in the Dwarvish script, and the Common script, usually going between both depending on circumstance. Formal writings are in Dwarvish, Less formal or personal tend to be in Common. Undercommon is almost always rendered in common by Dwarves.
+
+Dwarvish script is harsh and crisp, and efficient with it's strokes, so it can be written quickly.
+
+Dwarvish is the only mainstream language with no "signed" equivalent, though Undercommon and Common do have equivalents. Dwarves generally consider signed languages a waste of time and rarely learn them.
 
 ### Elves
 
@@ -71,13 +110,13 @@ Elves are always mysterious, tend towards and not away from magic, and are close
 
 All elves enjoy a Celestial heritage, which allows them natural feats in magic that most other races find much much difficult.
 
-##### Settled Elves
-
-Settled elves typically live in beautiful adobe villages, or in the case of cities, in large white stone towers and buildings. Typically with strong primary color accents, and exaggerated triangle shaped roofs. Here they study magic, perform religious ceremonies and often have large farms to feed their populace and livestock with.
-
 ##### Nomadic Elves
 
 Nomadic Elves live in Vaal with large forests of either fungi or arboreal trees, they can live in unlit Vaal, and live in smaller numbers. They worship nearly the same gods as the settled Elves, but consider themselves a more pure expression of Elvish worship. They live on hunting and gathering, and typically live in treetop villages, naturally grown tree or fungi houses, and more rarely in caves.
+
+##### Settled Elves
+
+Settled elves typically live in beautiful adobe villages, or in the case of cities, in large white stone towers and buildings. Typically with strong primary color accents, and exaggerated triangle shaped roofs. Here they study magic, perform religious ceremonies and often have large farms to feed their populace and livestock with.
 
 #### Elvish Languages
 
@@ -88,6 +127,22 @@ They write in Elvish, a smooth beautiful and compact script that takes quite som
 Nomadic Elves do not vary in speech or script from Settled Elves.
 
 Each Elvish language has a "signed" equivalent which can be used in place of spoken speech. It is known as a separate language, and was developed for hunting, as sound travels far underground silence was preferred. Celestial is the only exception, and does not have a signed equivalent.
+
+### Gnomes
+
+Gnomes seldom live in the Vaal, and instead live in small villages scattered through the various caverns, in both lighted and unlit Vaal. Gnomes typically live in small quaint villages, and work on their clockwork mechanisms which the Dwarves trade for, and provide protection to. Gnomes are a prized people in the Vaal, being naturally adept at the creation and construction of machinery and delicate mechanisms. They tend away from religious matters, and prefer order.
+
+Short, slim, and typically very intelligent, Gnomes occupy high positions in various economies, and are a respected people. They are excellent miners, and excellent crafters. Gnomish built weapons, and contraptions are held in high regard.
+
+Most Gnomes live under the protection of Dwarven kingdoms, and they are fought over by those kingdoms, however they are rarely harmed by dwarves, being seen as too great a resource to allow to die.
+
+#### Gnomish Languages
+
+Gnomes speak Gnomish, Undercommon and typically Dwarvish, they more rarely speak Common.
+
+Gnomes write in Dwarvish, Elvish, and Common scripts.
+
+Each Gnomish language has a "signed" equivalent which can be used in place of spoken speech. Dwarvish does not have a "signed" equivalent.
 
 ### Halflings
 
@@ -113,83 +168,61 @@ Each Halfling language has a "signed" equivalent which can be used in place of s
 
 Humans have suffered greatly in Siraga, being ill-suited to the terrain of the Vaal, being fit, but unable to climb effectively, and tending towards nomadic for the first years of their existence. Like Elves, humans split into nomadic and settled peoples, and otherwise make their wait in the world using wit and speech. They are ferocious fighters and quite clever with survival. However despite this, there isn't tons of them in the Vaal. Owning only a few lit Vaal, and smaller villages scattered through the caves, however they can be found living with nearly every people in other Vaal, and are widespread if not thinly.
 
-##### Settled Humans
-
-Settled humans are mercantile in nature, and quite settled, preferring to farm and raise livestock, and often go into business. Humans can be found in the power structures of many Kingdoms.
+Of all the peoples of Siraga, Humans take to the Vaal seas the most often, and are pioneers in the area, constructing the majority of ships on Siraga.
 
 ##### Nomadic Humans
 
 Nomadic humans have a lot in common with Nomadic turkic and Mongolian people, and favor mounts and living off the land. They call the gods by different names and have different more nomadic interpretations of them. They can be warlike, depending on the age, but tend to keep to themselves. They don't get along particularly well with nomadic Elves, seeing them as competition for Vaal space. Settled peoples including other humans consider them a nuisance as during rough times they will raid quite brutally to survive.
 
-Of all the peoples of Siraga, Humans take to the Vaal seas the most often, and are pioneers in the area, constructing the majority of ships on Siraga.
+##### Settled Humans
+
+Settled humans are mercantile in nature, and quite settled, preferring to farm and raise livestock, and often go into business. Humans can be found in the power structures of many Kingdoms.
 
 #### Human Languages
 
-Settled Humans speak Common, and often Dwarvish, due to their large spread, different accents abound.
-
-Nomadic Humans speak Nomad-Common, and sometimes Common.
-
-----
-
-Settled Humans write in the Common script almost exclusively, but can and will learn other scripts as needed.
+Nomadic Humans speak Nomadic-Common, and sometimes Common.
 
 Nomadic Humans don't have a script, and their history is entirely oral. Written script is rare amongst Nomadic Humans.
+
+Settled Humans speak Common, and often Dwarvish, due to their large spread, different accents abound.
+
+Settled Humans write in the Common script almost exclusively, but can and will learn other scripts as needed.
 
 Common script is free flowing and large, tending to be interpreted in many styles, it is of median difficulty to produce.
 
 Each Human language has a "signed" equivalent which can be used in place of spoken speech. Dwarvish does not have a signed equivalent.
 
-### Dwarves
-
-Dwarves live well on Siraga, their natural inclinations for stonecraft and carving kingdoms in the underground mean that they are alone in creating massive mining operations and creating large industry and are foremost in constructing new trade routes throughout Siraga. They are numerous and inhabit many separate kingdoms. Dwarves can be found in almost all Vaal climates and are generally lawful creatures.
-
-Dwarves tend towards order, and create large gates to their Vaal, and larger castles inside their Vaal. They tend towards exploration, and are generally the dominant force for exploring new Vaal, and caverns.
-
-Dwarves enjoy the highest development of any people, and create long tracks of rails to haul ore, and goods through the underground, powering these "trains" with various livestock. Their cities are built into all parts of a Vaal, and can even be built up the wall into the ceiling. They dominate with large stone spires, brass and copper domes, and a brutalistic aesthetic. Rails run between many buildings for transport, and are all powered via various tamed creatures, usually pets which double as a method of showing wealth.
-
-Dwarves are seldom nomadic, and when they are they tend to be small companies exploring the far Vaal, and searching for new Ore for Dwarves to mine.
-
-Dwarves are territorial and wars between the Dwarven Kingdoms is nearly always happening or on the Horizon. Dwarven warfare is large scale and quite advanced.
-
-#### Dwarvish Languages
-
-Dwarves speak Dwarvish and Undercommon, and sometimes Common. Religious dwarves can also speak Celestial, or Deep Speech.
-
-Dwarves write their languages in the Dwarvish script, and the Common script, usually going between both depending on circumstance. Formal writings are in Dwarvish, Less formal or personal tend to be in Common. Undercommon is almost always rendered in common by Dwarves.
-
-Dwarvish script is harsh and crisp, and efficient with it's strokes, so it can be written quickly.
-
-Dwarvish is the only mainstream language with no "signed" equivalent, though Undercommon and Common do have equivalents. Dwarves generally consider signed languages a waste of time and rarely learn them.
-
-### Gnomes
-
-Gnomes seldom live in the Vaal, and instead live in small villages scattered through the various caverns, in both lighted and unlit Vaal. Gnomes typically live in small quaint villages, and work on their clockwork mechanisms which the Dwarves trade for, and provide protection to. Gnomes are a prized people in the Vaal, being naturally adept at the creation and construction of machinery and delicate mechanisms. They tend away from religious matters, and prefer order.
-
-Short, slim, and typically very intelligent, Gnomes occupy high positions in various economies, and are a respected people. They are excellent miners, and excellent crafters. Gnomish built weapons, and contraptions are held in high regard.
-
-Most Gnomes live under the protection of Dwarven kingdoms, and they are fought over by those kingdoms, however they are rarely harmed by dwarves, being seen as too great a resource to allow to die.
-
-#### Gnomish Languages
-
-Gnomes speak Gnomish, Undercommon and typically Dwarvish, they more rarely speak Common.
-
-Gnomes write in Dwarvish, Elvish, and Common scripts.
-
-Each Gnomish language has a "signed" equivalent which can be used in place of spoken speech. Dwarvish does not have a "signed" equivalent.
-
 ### Lesser Races
 
 There are many lesser races that only control small Vaal, or live in caves, as such they are considered minor by the other races, but have their parts to play in Siraga history.
 
+#### Goblins
+
+Goblins are small and mean green to white skinned creatures that can be blind due to cave adaptation. They have keen hearing, and delight in the suffering of others. They overwhelmingly tend towards evil and chaos, though very rare exceptions have occurred over the centuries.
+
+They are often at war with nearly everyone, including themselves. They build everything from small to large cities in large hidden and far Vaal, and are considered the greatest threat to nearly every settled kingdom on Siraga. They have throughout time come together into massive empires, and at other times been small remnants of what they used to be. Nothing has ever come close to wiping them out.
+
+Being well adapted for cave combat, they tend to overwhelm their enemy with numbers, and they attack viciously with poorly forged copper and bronze weaponry, very rarely with steel and heavy armor.
+
+Goblins speak Goblin, and write in the Dwarvish script.
+
 #### Grevlin
 
-The Grevlin are a small blind Goblin like creature with gecko like skin for climbing, and tend evil and chaotic. They live in a myriad of small villages in caves, and will raid and attack Vaal for food and sadistic pleasure. They are a separate creature from Goblins, but do speak Goblin. They are often at war with Goblins, and remnants of their skirmishes can be found that are hundreds of years old in offshoot caves. They speak Goblin just as Goblins do, and have no native script. They rarely live in very large numbers, but on rare occasions can amass into great hosts. Some will even join Goblins in war on other settled peoples.
+The Grevlin are a small blind Goblin like creature with gecko like skin on their hands for climbing they are incredibly pale if not stark white, and tend evil and chaotic. They live in a myriad of small villages in caves, and will raid and attack Vaal for food and sadistic pleasure.
+
+They are often at war with Goblins and nearly every other civilized race, and remnants of their skirmishes can be found that are hundreds of years old in offshoot caves. They speak Goblin just as Goblins do, and have no native script. They rarely live in very large numbers, but on rare occasions can amass into great hosts. Some will even join Goblins in war on other settled peoples.
+
+They are natural and eerily proficient climbers and tend to attack from walls in ambushes.
+
+They are a separate creature from Goblins, but do speak Goblin, they do not utilize the written Goblin script.
 
 #### Helflings
 
-Helflings are half elf, half Halfling hybrids, and are taller than Halflings, living longer than Halflings, but not as long as elves. They generally look like oversized Halflings. They occupy a strange place in Halfling and Elf society, fitting into either, but at the same time being unable to fully fit in. There are few in the world, and they tend to favor religious service.
+Helflings are half elf, half Halfling hybrids, are taller than Halflings, live longer than Halflings, but not as long as elves. They generally look like oversized Halflings. They occupy a strange place in Halfling and Elf society, fitting into either, but at the same time being unable to fully fit in. There are few in the world, and they tend to favor religious service.
 
 Helflings tend to live with Elves, and more rarely with Halflings as they can generally pass as an elf. However they do not enjoy the favor of celestial heritage and aren't as capable at Magic. They trade this for more capability at martial tasks, and tend to be very capable warriors.
+
+Many famous assassins have been Helflings as their body size tends to make them ideal assassins.
 
 Helflings speak Elvish, and Halfling, and write in Elvish, they often speak common as well.
 
@@ -212,6 +245,18 @@ Sieges between civilizations usually revolve around first getting to the access 
 Galadin - The gigantic skies, or holes in the top of lighted Vaal, they can be a variety of sizes from holes a hundred feet across to hundreds of thousands. They allow light into the lighted Vaal, and is notably where most of the population of Siraga lives. They are used as guiding lights and do darken at "Night" Though only to a much calmer more twilit light. Only Dark Vaal will ever see true darkness. They radiate a magic light that reaches far farther normal light, and shadows under and around Galadin are blurry and faint. Their brightness can vary from one Vaal to another, getting as bright as Sunlight.
 
 Galadin Sickness (The Gally) - The Sickness that any creature not native to the Galadin goes through as they return to the Vaal. The effects differ per Galadin, but generally cause sickness, to insanity, to death. It is generally assumed that its effect on the magic in all beings veins destroys them, though this also seems to affect non-sentient, and non-organic creatures and constructions to some lesser or dramatic degrees.
+
+Grevlin - Pale blind creatures much like goblins, with the exception that they can climb cave walls startlingly fast.
+
+Helfling - A half-elf half-halfling hybrid, they tend to make capable and quick warriors, and favor fast ambush fighting to long drawn out engagements.
+
+Primordial Languages - Languages included here are considered primordial
+- Abyssal
+- Celestial
+- Deep Speech
+- Infernal
+- Primordial
+- Sylvan
 
 Siraga - The planet on which the Vaal reside, it is inhabited as far as we know only in the Vaal beneath it's surface. It's surface while being defined as existing is a mystery and is left such intentionally.
 
