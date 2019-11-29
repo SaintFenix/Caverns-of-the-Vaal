@@ -1,3 +1,43 @@
+# Foreword
+
+## Table of Contents
+- [Foreword](#Foreword)
+  - [Function](#Function)
+  - [This is not Forgotten Realms](#This-is-not-Forgotten-Realms)
+- [General Setting](#General-Setting)
+  - [The Vaal](#The-Vaal)
+    - [Cave or Vaal?](#Cave-or-Vaal?)
+    - [Dark Vaal](#Dark-Vaal)
+    - [Lighted Vaal](#Lighted-Vaal)
+    - [Vaal Climate](#Vaal-Climate)
+  - [Geography](#Geography)
+  - [Races of the Vaal](#Races-of-the-Vaal)
+    - [Aetherial First Beings](#Aetherial-First-Beings)
+    - [Dwarves](#Dwarves)
+      - [Dwarvish Languages](#Dwarvish-Languages)
+    - [Elves](#Elves)
+        - [Nomadic Elves](#Nomadic-Elves)
+        - [Settled Elves](#Settled-Elves)
+        - [Elvish Languages](#Elvish-Languages)
+    - [Gnomes](#Gnomes)
+      - [Gnomish Languages](#Gnomish-Languages)
+    - [Halflings](#Halflings)
+      - [Halfling Languages](#Halfling-Languages)
+    - [Humans](#Humans)
+        - [Nomadic Humans](#Nomadic-Humans)
+        - [Settled Humans](#Settled-Humans)
+        - [Human Languages](#Human-Languages)
+    - [Tieflings](#Tieflings)
+        - [Infernal Tieflings](#Infernal-Tieflings)
+        - [Deep Tieflings](#Deep-Tieflings)
+        - [Tiefling Languages](#Tiefling-Languages)
+  - [Races of the Vaal: Lesser Races](#Races-of-the-Vaal:-Lesser-Races)
+      - [Goblins](#Goblins)
+      - [Grevlin](#Grevlin)
+      - [Helflings](#Helflings)
+  - [Technology](#Technology)
+- [Definitions](#Definitions)
+
 ## Function
 The purpose of this document is like most creative projects to help maintain a general feeling of what a developed world looks like and feels like. It will provide general guidelines of what is and isn't allowed in the world development and should be read primarily by only those looking to help develop the setting, and not those who wish to have the setting spoiled for them. If you do not wish to have the setting spoiled, this is the time to turn back. [Back to the Introduction](README.md)
 
@@ -7,9 +47,7 @@ This document is the guiding document that defines the general design philosophy
 
 **Editor style pull requests that improve flow, grammar and spelling are very much appreciated.**
 
-* We are Tolkien building a world, Not reliable Storytellers who know everything about everything. Leave plenty of speculation and breathing room to the DM's and players, we are here to give them something to work with.
-
-## This is not Forgotten Realms:
+## This is not Forgotten Realms
 
 While many things will be borrowed from the OGL, which will tend to make parts of the Caverns of the Vaal feel like the Forgotten Realms, overall it is not the forgotten realms, and some things have been changed. They will be noted as they are changed here:
 
@@ -20,11 +58,12 @@ While many things will be borrowed from the OGL, which will tend to make parts o
   - Humans have both Common and Nomadic-Common as standard languages, as they have diverged so far from each other.
   - Halfling is written with the Elvish script.
   - Some languages do not have a script: such as Nomadic-Common, and the primordial languages.
-- There are no Orcs in this setting.
+- There are no Orcs or Dragonborn in this setting.
 - There are new races: Helfling, and Grevlin.
+- There are new Subraces: Nomadic-Human, Deep Tiefling.
 
 
-# General Setting:
+# General Setting
 The Caverns of the Vaal is a High Fantasy setting set in a huge underground network of caves. It is inhabited by many familiar races from the Forgotten Realms D&D mythology, as well as a variety of races that are not from the mythology.
 
 The overall feel of the world is one of mystery, as the various races are very superstitious as to why the entire world is underground, and why the giant holes (Galadin) that allow the light into the caverns don't exist in every cavern, and why no-one who returns from attempting to venture into them, comes back sane or whole. Depending on how high they ascended into the Galadin, they return more and more sick, and even descending from them back into the Vaal will cause partial and very serious symptoms, from dizziness to death. There are stages of this sickness that will be defined, it is important to note here that no-one who has gone too far into them has returned the same, or at all.
@@ -33,7 +72,7 @@ According to popular knowledge no-one has ever made it to the top of a Galadin.
 
 There will be mysterious figures, or heroes who will have been to the top, but they will remain mysterious, or insane, and as such will never prove to be reliable narrators to the top. This will always be left a mystery.
 
-## The Vaal:
+## The Vaal
 A Single Vaal can be large enough to have several races living in or, or just one depending on how the history of that Vaal developed, intrigue, god worship, and all the mundanities of life occur in the Vaal and some are quite peaceful or quite far away. Vaal tend to all be around the same level in the ground, though deeper Vaal do exist, and all of them are unlit.
 
 ### Cave or Vaal?
@@ -42,12 +81,12 @@ The Denizens of Siraga are divided on what constitutes a Vaal, most commonly it 
 
 Caves are much smaller and usually quite longer tending to be one way in, one way out affairs, that connect one or more Vaal. Caves can be quite large themselves some with room for wagons, and others with barely enough room to squeeze a single adventurer through. They can be completely dry with the usual stalactites and stalagmites that other caves do, or quite warm and wet with fungi or plants. If near enough to a large Galadin these can be lit naturally for miles, if not, they are completely black, though other plants or natural effects may light them.
 
-### Dark Vaal (unlit Vaal):
-The Dark Vaal are where the less ordered Civilizations generally live, they are not lit by a Galadin and are instead massive dark caves that stretch for great distances that are home to creatures adapted to this darkness. They can be giant empty and dry, or home to massive dark mysterious seas. Contrary to their name they can be lit by a variety of sources, though generally not particularly well due to their size. Magma, or lights from creatures or civilizations may light up these Vaal, but generally they exist as pathways to other lighted Vaals, or mysterious and dangerous places where the darkness of the world resides.
+### Dark Vaal
+The Dark Vaal or Unlit Vaal are where the less ordered Civilizations generally live, they are not lit by a Galadin and are instead massive dark caves that stretch for great distances that are home to creatures adapted to this darkness. They can be giant empty and dry, or home to massive dark mysterious seas. Contrary to their name they can be lit by a variety of sources, though generally not particularly well due to their size. Magma, or lights from creatures or civilizations may light up these Vaal, but generally they exist as pathways to other lighted Vaals, or mysterious and dangerous places where the darkness of the world resides.
 
 Many dark and evil creatures can live in Dark Vaal, and many mysteries can be present in them. Unless charted, or otherwise explored, Most of the unexplored Vaal in the world tend to be Dark Vaal due to the hardship of traveling through them. Food may not be present, neither water, or reliable methods to light the path for those not blessed by darkvision.
 
-### Lighted Vaal:
+### Lighted Vaal
 Lightened Vaal are where most civilizations live, they are lit by the massive or sometimes not so massive Galadin. These large holes in the ceilings of the Vaal are where the warmth and light come from. The Galadin in these Vaal radiate a magic light that reaches far farther than normal light, and shadows under and around Galadin are blurry and faint, as the magic light works it's way through the Vaal. Many cities in lighted Vaal will be built directly underneath Galadin, or along cross roads between them.
 
 In General the orderly races of the world live in Lighted Vaal, with the exception of the numerous Dwarves who live all over Siraga.
@@ -69,12 +108,12 @@ Some Vaal have collapsed in antiquity and some have Collapsed more recently, the
 
 When writing a new Vaal remember to consider what it's terrain looks like, and how wet and warm it is, and adjust accordingly. Be creative! Other than the gods there is no being that knows what every Vaal holds.
 
-## Geography:
+## Geography
 **TBD as I'll have to create a rough map of the world, this is incoming. I'll probably pay an Artist for a much better version of what I produce in time.**
 
-## Races of the Vaal:
+## Races of the Vaal
 
-### Aetherial First Beings:
+### Aetherial First Beings
 
 First there was the gods, and an indefinite time that they came into being and ruled, Then there was the casting down an event that created the Vaal, of which details are scarce, though most races have a mythology dating to that time sharing that detail. They once walked the land, and eventually left, though most are not sure. They are however revered and still worshipped by the races of Vaal.
 
@@ -166,9 +205,11 @@ Each Halfling language has a "signed" equivalent which can be used in place of s
 
 ### Humans
 
-Humans have suffered greatly in Siraga, being ill-suited to the terrain of the Vaal, being fit, but unable to climb effectively, and tending towards nomadic for the first years of their existence. Like Elves, humans split into nomadic and settled peoples, and otherwise make their wait in the world using wit and speech. They are ferocious fighters and quite clever with survival. However despite this, there isn't tons of them in the Vaal. Owning only a few lit Vaal, and smaller villages scattered through the caves, however they can be found living with nearly every people in other Vaal, and are widespread if not thinly.
+Humans have suffered greatly in Siraga, being ill-suited to the terrain of the Vaal, being fit, but unable to climb effectively, and tending towards nomadic for the first centuries of their existence. Like Elves, humans split into nomadic and settled peoples, and otherwise make their way in the world using wit and speech. They are ferocious fighters and quite clever, which has so far gauranteed their survival. However despite this, there isn't tons of them in the Vaal. Owning only a few lit Vaal, and smaller villages scattered through the caves, however they can be found living with nearly every people in other Vaal, and are widespread if not thinly.
 
 Of all the peoples of Siraga, Humans take to the Vaal seas the most often, and are pioneers in the area, constructing the majority of ships on Siraga.
+
+Humans tend towards every alignment imaginable.
 
 ##### Nomadic Humans
 
@@ -192,7 +233,39 @@ Common script is free flowing and large, tending to be interpreted in many style
 
 Each Human language has a "signed" equivalent which can be used in place of spoken speech. Dwarvish does not have a signed equivalent.
 
-### Lesser Races
+### Tieflings
+
+Tieflings are exceedingly rare in the Caverns of the Vaal, but not unheard of. They exist rarely in civilized Vaal, and tend to live alone, or amongst Nomads. They tend to live along, and rarely in Lit Vaals, preferring the Dark where they can exist peacefully.
+
+Tieflings are few in number, and are often singled out as the source of evil in a community, while some Vaal are merely ambivalent to their existence, life can be hard as a Tiefling.
+
+##### Infernal Tieflings
+
+Infernal Tieflings are half Human, Half or even part infernal. With some families having it in the bloodline and it appearing suddenly after generations. They display powers and urges from their infernal parentage. In addition they also show some various physical characteristics which can be more or less obvious depending on how far back the bloodline runs.
+
+They live longer than Humans and have a natural attunement to the magic and the heartbeat of Siraga. They feel most at home deep in the earth in a lair.
+
+Infernal Tieflings tend towards Evil, and chaos.
+
+##### Deep Tieflings
+
+Deep Tieflings have in place of infernal Parentage, they have primordial parentage, and display differing powers from regular Infernal Tieflings. They overwhelmingly become Warlocks, though this isn't universal.
+
+Deep Tieflings derive their parentage through curses, where one of their ancestors was cursed by Primordials, and their cursed blood showed in their offspring. Deep Tieflings have far more exotic appendages and looks, and much more often are shunned by the community, as they represent the unknowable.
+
+Deep Tieflings tend towards chaos, and neutrality, and have a natural urge to learn the unknowable and seek out forbidden knowledge.
+
+#### Tiefling languages
+
+Infernal Tieflings speak Infernal, and undercommon, and more rarely Common.
+
+Infernal Tieflings write in the Dwarvish and Elvish Script
+
+Deep Tieflings speak Primordial, Undercommon, and more rarely Common.
+
+Tieflings rarely know a Signed language. Primordial and Infernal both do not have Signed equivalents.
+
+## Races of the Vaal: Lesser Races
 
 There are many lesser races that only control small Vaal, or live in caves, as such they are considered minor by the other races, but have their parts to play in Siraga history.
 
@@ -240,24 +313,26 @@ Ships on the Vaal seas are powered either by wind, or in rarer cases use some fo
 
 Sieges between civilizations usually revolve around first getting to the access of a Vaal, and breaking through it's gates if it has any, or digging new entrances. In really difficult times, Civilizations in the Vaal may collapse the roof on the entrances, though this is considered a very desperate thing, and has only happened a few times in history.
 
-## Definitions:
+## Definitions
 
-Galadin - The gigantic skies, or holes in the top of lighted Vaal, they can be a variety of sizes from holes a hundred feet across to hundreds of thousands. They allow light into the lighted Vaal, and is notably where most of the population of Siraga lives. They are used as guiding lights and do darken at "Night" Though only to a much calmer more twilit light. Only Dark Vaal will ever see true darkness. They radiate a magic light that reaches far farther normal light, and shadows under and around Galadin are blurry and faint. Their brightness can vary from one Vaal to another, getting as bright as Sunlight.
+- Deep Tiefling - A Tiefling with Primordial parentage, they function similarly to standard Infernal Tieflings, but are more mysterious and rare, they are almost all Warlocks. They tend to have very strange and unusual mutations.
 
-Galadin Sickness (The Gally) - The Sickness that any creature not native to the Galadin goes through as they return to the Vaal. The effects differ per Galadin, but generally cause sickness, to insanity, to death. It is generally assumed that its effect on the magic in all beings veins destroys them, though this also seems to affect non-sentient, and non-organic creatures and constructions to some lesser or dramatic degrees.
+- Galadin - The gigantic skies, or holes in the top of lighted Vaal, they can be a variety of sizes from holes a hundred feet across to hundreds of thousands. They allow light into the lighted Vaal, and is notably where most of the population of Siraga lives. They are used as guiding lights and do darken at "Night" Though only to a much calmer more twilit light. Only Dark Vaal will ever see true darkness. They radiate a magic light that reaches far farther normal light, and shadows under and around Galadin are blurry and faint. Their brightness can vary from one Vaal to another, getting as bright as Sunlight.
 
-Grevlin - Pale blind creatures much like goblins, with the exception that they can climb cave walls startlingly fast.
+- Galadin Sickness (The Gally, Godsickness, et others) - The Sickness that any creature not native to the Galadin goes through as they return to the Vaal. The effects differ per Galadin, but generally cause sickness, to insanity, to death. It is generally assumed that its effect on the magic in all beings veins destroys them, though this also seems to affect non-sentient, and non-organic creatures and constructions to some lesser or dramatic degrees.
 
-Helfling - A half-elf half-halfling hybrid, they tend to make capable and quick warriors, and favor fast ambush fighting to long drawn out engagements.
+- Grevlin - Pale blind creatures much like goblins, with the exception that they can climb cave walls startlingly fast.
 
-Primordial Languages - Languages included here are considered primordial
-- Abyssal
-- Celestial
-- Deep Speech
-- Infernal
-- Primordial
-- Sylvan
+- Helfling - A half-elf half-halfling hybrid, they tend to make capable and quick warriors, and favor fast ambush fighting to long drawn out engagements.
 
-Siraga - The planet on which the Vaal reside, it is inhabited as far as we know only in the Vaal beneath it's surface. It's surface while being defined as existing is a mystery and is left such intentionally.
+- Primordial Languages - Languages included here are considered primordial
+  - Abyssal
+  - Celestial
+  - Deep Speech
+  - Infernal
+  - Primordial
+  - Sylvan
 
-Vaal - The Large Caverns that exist on Siraga and stretch across it's surface. Some of which are exceptionally large, and some of which are lit by the Galadin, and others which are not. These are where civilization meeks out a more or less prosperous existance depending on which race, and which time period is being talked about.
+- Siraga - The planet on which the Vaal reside, it is inhabited as far as we know only in the Vaal beneath it's surface. It's surface while being defined as existing is a mystery and is left such intentionally.
+
+- Vaal - The Large Caverns that exist on Siraga and stretch across it's surface. Some of which are exceptionally large, and some of which are lit by the Galadin, and others which are not. These are where civilization meeks out a more or less prosperous existance depending on which race, and which time period is being talked about.
