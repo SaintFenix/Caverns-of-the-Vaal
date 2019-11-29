@@ -31,7 +31,7 @@
         - [Infernal Tieflings](#Infernal-Tieflings)
         - [Deep Tieflings](#Deep-Tieflings)
         - [Tiefling Languages](#Tiefling-Languages)
-  - [Races of the Vaal: Lesser Races](#Races-of-the-Vaal:-Lesser-Races)
+  - [Races of the Vaal: Lesser Races](#Races-of-the-Vaal:\-Lesser-Races)
       - [Goblins](#Goblins)
       - [Grevlin](#Grevlin)
       - [Helflings](#Helflings)
