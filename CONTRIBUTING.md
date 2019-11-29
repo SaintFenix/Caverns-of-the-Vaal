@@ -8,12 +8,15 @@ Contributions can be requested via pull request, where a Maintainer will discuss
 2. Is the Grammar Correct, and does the writing flow well?
 3. Does the Pull Request have appropriate formatting so it can be exported using the [Homebrewery](https://homebrewery.naturalcrit.com/)?  Basically this means that the user has written almost all of it, and tested it in the Homebrewery for formatting, picture clipping, and general flow.
 4. If the Pull Request includes Art, or is just Art, is the artist attributed appropriately immediately under the Art. Written permission to use this art will also be required, unless you are the artist yourself.
+5. Lastly and the most important, Does the pull request fit within the [Design Document](DESIGNDOCUMENT.md)?
 
 The only exceptions to these guidelines are grammar corrections, and light flow corrections via Pull Request.
 
 ***Maintainers always reserve the right to deny any pull request without reason.***
 
 # The Process
+
+There is a process to contribute, if you haven't already, please read through the relevant parts of the [Design Document](DESIGNDOCUMENT.md) for your contribution to ensure that continuity is maintained.
 
 **1.** **Because this is mostly a narrative work by myself [SaintFenix](https://github.com/SaintFenix), I don't want to get anyone's hopes up that a Pull Request will necessarily be accepted just because there is a lot of work in it. For this reason a Pull Request should be submitted first with an outline of proposed changes, and if they sound well and good, It'll be marked provisional.**
 
