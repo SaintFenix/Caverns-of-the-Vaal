@@ -7,6 +7,7 @@ Contributions can be requested via pull request, where a Maintainer will discuss
 1. Does it fit the Setting? and add something meaningful?
 2. Is the Grammar Correct, and does the writing flow well?
 3. Does the Pull Request have appropriate formatting so it can be exported using the [Homebrewery](https://homebrewery.naturalcrit.com/)?  Basically this means that the user has written almost all of it, and tested it in the Homebrewery for formatting, picture clipping, and general flow.
+4. If the Pull Request includes Art, or is just Art, is the artist attributed appropriately immediately under the Art. Written permission to use this art will also be required, unless you are the artist yourself.
 
 The only exceptions to these guidelines are grammar corrections, and light flow corrections via Pull Request.
 
@@ -16,11 +17,11 @@ The only exceptions to these guidelines are grammar corrections, and light flow 
 
 **1.** **Because this is mostly a narrative work by myself [SaintFenix](https://github.com/SaintFenix), I don't want to get anyone's hopes up that a Pull Request will necessarily be accepted just because there is a lot of work in it. For this reason a Pull Request should be submitted first with an outline of proposed changes, and if they sound well and good, It'll be marked provisional.**
 
-**2.** **Once Marked Provisional, the user may continue work until completed, and once completed it will be fully evaluated.**
+**2.** **Once Marked Provisional, the user may continue work until completed, and once completed it will be fully evaluated. This can be either writing, Art or both.**
 
 **3.** **Once the evaluation is complete, I will merge it into the mainline.**
 
-Once enough changes have been made, I'll arbitrarily decide to release either a point release or a new Edition.
+Once enough changes have been made from various pull requests, I'll arbitrarily decide to release either a point release or a new Edition.
 
 If a pull request is submitted without reading this or going through the process, it will have a much larger chance of being declined.
 

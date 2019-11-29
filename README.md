@@ -36,8 +36,8 @@ It should be additionally noted that when possible, open-endedness as well as ro
 For a general idea of what the setting is supposed to feel like, please reference the Design Document:
 [Design Document for the Caverns of the Vaal](DESIGNDOCUMENT.md)
 
-**CONTRIBUTING GUIDELINES ARE CURRENTLY A WORK IN PROGRESS**
-*If you would like to contribute please read over the [Contributing Guidelines](CONTRIBUTING.md) currently a WIP* **CONTRIBUTING GUIDELINES ARE CURRENTLY A WORK IN PROGRESS**
+
+ *If you would like to have some idea added to the setting, consider contributing, please read over the [Contributing Guidelines](CONTRIBUTING.md)* 
 
 ## Editions
 
@@ -51,6 +51,8 @@ Editions will experience point releases to fix glaring or lesser errors or conti
  Pull requests are welcome, but subject to heavy scrutiny, as such unless the addition fits REALLY well with the setting, or points out obvious flaws in the writing, or contradictions, it may not be accepted. New contributors are always welcome, though I would suggest opening a small pull request first and discussing intended additions before writing the bulk of an addition before they are accepted. Language corrections or fixes for misspellings or grammatically incorrect passages or words, are always accepted.
 
  Art is always given a priority as well as I have limited artistic abilities, and would very much appreciate art donated to the project. Higher quality will be subjective and I reserve the right to chose the aesthetic that fits the theme of the story best. Nevertheless pull requests with art will be more subjective.
+
+ *If you would like to have some idea added to the setting, consider contributing, please read over the [Contributing Guidelines](CONTRIBUTING.md)*
 
 ## Compiling
 
