@@ -57,7 +57,7 @@ While many things will be borrowed from the OGL, which will tend to make parts o
     - Dwarvish also doesn't have a signed equivalent.
   - Humans have both Common and Nomadic-Common as standard languages, as they have diverged so far from each other.
   - Halfling is written with the Elvish script.
-  - Some languages do not have a script: such as Nomadic-Common, and the primordial languages.
+  - Some languages do not have a native script: such as Nomadic-Common, and the primordial languages.
 - There are no Orcs or Dragonborn in this setting.
 - There are new races: Helfling, and Grevlin.
 - There are new Subraces: Nomadic-Human, Deep Tiefling.
@@ -249,7 +249,7 @@ Infernal Tieflings tend towards Evil, and chaos.
 
 ##### Deep Tieflings
 
-Deep Tieflings have in place of infernal Parentage, they have primordial parentage, and display differing powers from regular Infernal Tieflings. They overwhelmingly become Warlocks, though this isn't universal.
+Deep Tieflings in place of infernal Parentage, they have primordial parentage, and display differing powers from regular Infernal Tieflings. They overwhelmingly become Warlocks, though this isn't universal.
 
 Deep Tieflings derive their parentage through curses, where one of their ancestors was cursed by Primordials, and their cursed blood showed in their offspring. Deep Tieflings have far more exotic appendages and looks, and much more often are shunned by the community, as they represent the unknowable.
 
@@ -323,7 +323,7 @@ Sieges between civilizations usually revolve around first getting to the access 
 
 - Grevlin - Pale blind creatures much like goblins, with the exception that they can climb cave walls startlingly fast.
 
-- Helfling - A half-elf half-halfling hybrid, they tend to make capable and quick warriors, and favor fast ambush fighting to long drawn out engagements.
+- Helfling - A half-elf half-halfling hybrid, they tend to make capable and quick warriors, and favor fast ambush fighting to long drawn out engagements. They usually style themselves Elves, but exist as separate entities, they prefer to communicate by sign, and usually combine multiple languages together. They are cunning negotiators, and fairly rare as a people.
 
 - Primordial Languages - Languages included here are considered primordial
   - Abyssal
@@ -332,6 +332,7 @@ Sieges between civilizations usually revolve around first getting to the access 
   - Infernal
   - Primordial
   - Sylvan
+
 
 - Siraga - The planet on which the Vaal reside, it is inhabited as far as we know only in the Vaal beneath it's surface. It's surface while being defined as existing is a mystery and is left such intentionally.
 
