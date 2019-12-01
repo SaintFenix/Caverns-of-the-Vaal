@@ -69,6 +69,24 @@ The goal here is to make all pages fit as though they were natural in a D&D 5th 
 
 Editions and Point releases will be released as PDFs exported from Homebrewery.
 
+**If you wish to compile your own release, here is the process:**
+
+**Requirements:**
+
+- `git`
+- `Google Chrome` - or a variation of this browser such as: [List of Chromium Based Browsers](https://en.wikipedia.org/wiki/Chromium_(web_browser)#Browsers_based_on_Chromium)  Although Chrome and Chromium of the latest versions are preferred.
+- ` A text editor` - Something you can easily copy and paste in and out of.
+- `A PDF Program that can merge PDFs` - `PDFtoolkit` is free, Adobe Acrobat can also do this. `PDF Toolkit +` is a paid app on MacOS, though `PDFtk-java` through homebrew is command line only and free.
+
+**Steps:**
+
+1. Git clone the repository `git clone https://github.com/SaintFenix/Caverns-of-the-Vaal.git` 'or' use this link to download it as a zip: https://github.com/SaintFenix/Caverns-of-the-Vaal/archive/master.zip
+2. Open `Google Chrome` - and navigate to the [Homebrewery](https://homebrewery.naturalcrit.com/)
+3. Open each individual page from each book or campaign and copy and past them in order on the [Homebrewery](https://homebrewery.naturalcrit.com/). Make sure to add a new line between each page. (Press Enter!)
+4. Once all of the pages in that folder are placed, check the alignment, and adjust as necessary, this should usually be either perfect, or just one or two new lines. (Pressing enter!)
+5. Once these are lined up, export via PDF on the Homebrewery.
+6. Lastly the created PDF's need to be combined, these can be combined using `PDFtk` from the Linux or windows Command line, or from a GUI version of it's program `PDFtoolkit` that will run on both Windows and Linux. MacOS user's can use either `PDF Toolkit +` through the Mac app store, or `PDFtk-java` installed via [brew](https://brew.sh/).
+
 ## License
 
 [Also as it's own Document](LICENSE.md)

@@ -43,4 +43,4 @@ Start with the Basics, once complete, using what you know about Markdown you sho
 
 
 - Advanced
- - [Homebrewery](https://homebrewery.naturalcrit.com/) - This is the "compiler" or official formatting of the "Caverns of the Vaal" Setting. All contributions must be written in this format in order to be accepted into the mainline.
+    - [Homebrewery](https://homebrewery.naturalcrit.com/) - This is the "compiler" or official formatting of the "Caverns of the Vaal" Setting. All contributions must be written in this format in order to be accepted into the mainline.
